@@ -37,7 +37,7 @@ library(ggrepel)
 
 
 # Set working directory
-setwd("~/YOURPATH/replication_files")
+setwd("/WholeTale/workspace")
 
 ### Load data
 load("Data/credit_regime_raw_data.RData")

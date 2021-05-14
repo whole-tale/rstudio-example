@@ -16,7 +16,7 @@ library(data.table)
 library(gridExtra)
 
 # Set working directory
-setwd("~/YOURPATH/replication_files")
+setwd("/WholeTale/workspace")
 
 # Load data
 load("Data/credit.RData")

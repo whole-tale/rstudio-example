@@ -37,7 +37,7 @@ library(glmmTMB)
 
 
 # Set working directory
-setwd("~/YOURPATH/replication_files")
+setwd("/WholeTale/workspace")
 
 ### Load LITS wave 2
 load("Data/lits_w2_data.RData")

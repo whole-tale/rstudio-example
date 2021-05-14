@@ -34,7 +34,7 @@ library(sjPlot)
 library(plyr)
 
 # Set working directory
-setwd("~/YOURPATH/replication_files")
+setwd("/WholeTale/workspace")
 
 ### Load SIPP data
 load("Data/sipp_data.RData")
